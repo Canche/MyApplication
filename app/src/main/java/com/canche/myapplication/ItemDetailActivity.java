@@ -20,7 +20,7 @@ import android.view.MenuItem;
 public class ItemDetailActivity extends AppCompatActivity {
 
     /*ajjaja nuevo branches*/
-    /*este es para el master vewwe*/
+    /*este es para el master vewwe jajaj*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
