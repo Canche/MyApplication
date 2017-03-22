@@ -11,7 +11,12 @@ import android.support.v7.app.ActionBar;
 import android.support.v4.app.NavUtils;
 import android.view.MenuItem;
 
-/**
+
+
+
+/** secrea otro branche sobre el branch
+ *
+ *
  * An activity representing a single Item detail screen. This
  * activity is only used narrow width devices. On tablet-size devices,
  * item details are presented side-by-side with a list of items
@@ -20,7 +25,7 @@ import android.view.MenuItem;
 public class ItemDetailActivity extends AppCompatActivity {
 
     /*ajjaja nuevo branches*/
-    /*este es para el master*/
+    /*este es para el master vewwe jajaj*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
