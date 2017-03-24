@@ -16,6 +16,7 @@ import android.view.MenuItem;
 
 /** secrea otro branche sobre el branch
  *
+ * hvwehviw hifw    ehivfvihlw  vchi    wvicv   w   wcvwvu  w  fg   e2gfy2  ºlfgw   fgi wbegif
  *
  * An activity representing a single Item detail screen. This
  * activity is only used narrow width devices. On tablet-size devices,
@@ -27,6 +28,7 @@ public class ItemDetailActivity extends AppCompatActivity {
     /*ajjaja nuevo branches*/
     /*este es para el master vewwe jajaj*/
     //jasdasjdgjasdgjasgjdj PR
+    //gqwdvgqwgjdqwjvhgdqvwhdhjvq   wvd
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
