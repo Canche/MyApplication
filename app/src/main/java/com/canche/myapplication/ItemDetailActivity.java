@@ -27,6 +27,7 @@ public class ItemDetailActivity extends AppCompatActivity {
     /*ajjaja nuevo branches*/
     /*este es para el master vewwe jajaj*/
     //jasdasjdgjasdgjasgjdj PR
+    //gqwdvgqwgjdqwjvhgdqvwhdhjvq   wvd
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
