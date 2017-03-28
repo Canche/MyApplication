@@ -31,6 +31,9 @@ public class ItemDetailActivity extends AppCompatActivity {
     //gqwdvgqwgjdqwjvhgdqvwhdhjvq   wvd
     //fbhshdjfvsdvfjhsdvfjvsdhlsdjfvjhsdf
 
+    //asjdhasvhDHAsdasd
+    //sfdsfsfsadfsadfsadf
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
