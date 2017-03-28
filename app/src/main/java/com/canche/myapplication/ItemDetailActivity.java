@@ -101,4 +101,7 @@ public class ItemDetailActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+    //awgwgwgwrgwrgwrg  erg r3gr    gqrege  rgeqr
+    //awegfewrageargergewqrgeqrgqergqerger  geqrgqerg
+    //gagergeqrgqegqergeqrgqegqehqetyqryjwryujurwyjrytj
 }
