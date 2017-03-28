@@ -108,4 +108,8 @@ public class ItemDetailActivity extends AppCompatActivity {
     //ergergdgdrgesrgegergergerg
     //regeargergergergergeqr
     //EGERHERHERHEWERWHEWRTHEWTR
+
+    //assfasfsadfsadfsadfsadf
+    ///dfdsfasraegferdg
+    //adfgaergaerg
 }
